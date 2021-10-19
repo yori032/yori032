@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yori032.
+- 👀 I’m interested in tech, data, music, politics.
+- 🌱 I’m currently learning python.
+- 📫 Reach me on Twitter @jonasliniger
